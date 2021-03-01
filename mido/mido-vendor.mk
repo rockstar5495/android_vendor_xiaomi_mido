@@ -1217,8 +1217,8 @@ PRODUCT_PACKAGES += \
     WfdCommon \
     chargeonlymode \
     daxService \
-    MotoDolbyV3
+    MotoDolbyV3 \
     android.hardware.biometrics.fingerprint@2.1-service.xiaomi_mido \
     android.hardware.gnss@2.1-service-qti \
     manifest_android.hardware.drm@1.3-service.widevine \
-    vendor.qti.gnss@4.0-service \
+    vendor.qti.gnss@4.0-service
